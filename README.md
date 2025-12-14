@@ -61,9 +61,7 @@
 
 
 ---
-<!-- Snake --> 
-<p align="center"><img src="https://raw.githubusercontent.com/Mostafa-wael/Mohamed-Maher-Mohamed/output/snake.svg" alt="snake"></center> 
-</p> 
+
 
 <!-- Thanks --> 
 <p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> 
