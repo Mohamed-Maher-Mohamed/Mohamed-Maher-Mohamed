@@ -13,14 +13,15 @@
         <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&center=true&color=a463e2&pause=3000&width=150&height=30&vCenter=true">
     </h>
 </div>
-<!-- views <img src="https://komarev.com/ghpvc/?username=Mohamed-Maher-Mohamed&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />-->
-<hr>
+
+---
 
 * **Computer Science student** with a strong focus on backend development and algorithmic problem-solving.
 * Skilled in **C#,.Net and MySQL**, with a dedicated interest in advancing my knowledge of **system architecture and design patterns**.
 * participant in contests such as the **ECPC**.
-* Actively seeking **internship opportunities** to apply and expand my backend development skills.
+* Actively seeking **internship opportunities** to apply and expand my backend development skills. 
 
+---
 
 <!-- Connect with me --> 
 <div align="center">
@@ -31,16 +32,29 @@
  
 <div align="center">
   <a href="mailto:muhammedmaher916@gmail.com" target="_blank"> 
-      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="40"/></a> &nbsp;
   </a> 
   <a href="https://www.linkedin.com/in/muhammed-maher/" target="_blank"> 
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/></a> &nbsp;
   </a> 
   <a href="https://www.youtube.com/@MuhammadMaher-32">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="40"/></a> &nbsp;
 </div>
 
 
+---
+
+<!-- Languages and Tools -->
+
+<h3 align="center"><b>Languages and Tools</b></h3>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,dotnet,github,git&perline=7" style="height:113px;"/>
+</div>
+
+
+
+---
 <!-- Snake --> 
 <p align="center"><img src="https://raw.githubusercontent.com/Mostafa-wael/Mostafa-wael/output/snake.svg" alt="snake"></center> 
 </p> 
