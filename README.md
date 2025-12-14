@@ -1,8 +1,8 @@
 <!-- Headers --> 
-<h1 align="center">
-  Hi, I'm Mohamed Maher
-  
-</h1>
+
+
+<h1 align="center">Hi, I'm Mohamed Maher <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
+
 
 
 
