@@ -5,6 +5,7 @@
 </h1>
 
 
+
 <!-- about me -->
 <div align="center">
     <h>
@@ -12,7 +13,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&center=true&color=a463e2&pause=3000&width=150&height=30&vCenter=true">
     </h>
 </div>
-
+<!-- views <img src="https://komarev.com/ghpvc/?username=Mohamed-Maher-Mohamed&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />-->
 <hr>
 
 * **Computer Science student** with a strong focus on backend development and algorithmic problem-solving.
@@ -30,12 +31,13 @@
  
 <div align="center">
   <a href="mailto:muhammedmaher916@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" /> 
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
   </a> 
   <a href="https://www.linkedin.com/in/muhammed-maher/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /> 
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
   </a> 
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Maher-Mohamed&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <a href="https://www.youtube.com/@MuhammadMaher-32">
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
 </div>
 
 
