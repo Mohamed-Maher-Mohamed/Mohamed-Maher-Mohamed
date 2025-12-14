@@ -14,10 +14,21 @@
     </h1>
 </div>
 
-<h3 align="center"> Computer Science student with a strong focus on backend development and algorithmic problem-solving.</h3>
-<h3 align="center"> Skilled in C#,.Net and MySQL, with a dedicated interest in advancing my knowledge of system architecture and design patterns.</h3>
-<h3 align="center"> participant in contests such as the ECPC.</h3>
-<h3 align="center"> Actively seeking internship opportunities to apply and expand my backend development skills. </h3>
+<h3 align="center">
+💻 Computer Science student with a strong focus on <b>Backend Development</b> and <b>Algorithmic Problem-Solving</b>.
+</h3>
+
+<h3 align="center">
+🛠️ Skilled in <b>C#</b>, <b>.NET</b>, and <b>MySQL</b>, with a strong interest in <b>System Architecture</b> and <b>Design Patterns</b>.
+</h3>
+
+<h3 align="center">
+🏆 Competitive programming  & participant in contests such as <b>ECPC</b>.
+</h3>
+
+<h3 align="center">
+🚀 Actively seeking <b>Internship Opportunities</b> to apply and grow my backend development skills.
+</h3>
 
 <!-- Cover Image -->
 <p align="center">
