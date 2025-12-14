@@ -8,18 +8,16 @@
 
 <!-- about me -->
 <div align="center">
-    <h2>
+    <h1>
         <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
         <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&center=true&color=a463e2&pause=3000&width=150&height=30&vCenter=true">
-    </h2>
+    </h1>
 </div>
 
-
-* **Computer Science student** with a strong focus on backend development and algorithmic problem-solving.
-* Skilled in **C#,.Net and MySQL**, with a dedicated interest in advancing my knowledge of **system architecture and design patterns**.
-* participant in contests such as the **ECPC**.
-* Actively seeking **internship opportunities** to apply and expand my backend development skills. 
-
+<h3 align="center"> Computer Science student with a strong focus on backend development and algorithmic problem-solving.</h3>
+<h3 align="center"> Skilled in C#,.Net and MySQL, with a dedicated interest in advancing my knowledge of system architecture and design patterns.</h3>
+<h3 align="center"> participant in contests such as the ECPC.</h3>
+<h3 align="center"> Actively seeking internship opportunities to apply and expand my backend development skills. </h3>
 
 <!-- Cover Image -->
 <p align="center">
