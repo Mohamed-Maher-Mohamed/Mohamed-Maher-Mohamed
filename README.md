@@ -15,11 +15,11 @@
 </div>
 
 <h3 align="center">
-💻 Computer Science student with a strong focus on <b>Backend Development</b> and <b>Algorithmic Problem-Solving</b>.
+💻 Computer Science student with a strong focus on <b>Backend Development</b> and <b> Problem-Solving</b>.
 </h3>
 
 <h3 align="center">
-🛠️ Skilled in <b>C#</b>, <b>.NET</b>, and <b>MySQL</b>, with a strong interest in <b>System Architecture</b> and <b>Design Patterns</b>.
+🛠️ Skilled in <b>C#</b>, <b>.NET</b>, and <b>SQL Server</b>, with a strong interest in <b>System Architecture</b> and <b>Design Patterns</b>.
 </h3>
 
 <h3 align="center">
